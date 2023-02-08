@@ -1,0 +1,7 @@
+C:\project\mass2\Massive2\bin\Debug\Massive2.exe.config
+C:\project\mass2\Massive2\bin\Debug\Massive2.exe
+C:\project\mass2\Massive2\bin\Debug\Massive2.pdb
+C:\project\mass2\Massive2\obj\Debug\Massive2.csproj.AssemblyReference.cache
+C:\project\mass2\Massive2\obj\Debug\Massive2.csproj.CoreCompileInputs.cache
+C:\project\mass2\Massive2\obj\Debug\Massive2.exe
+C:\project\mass2\Massive2\obj\Debug\Massive2.pdb
